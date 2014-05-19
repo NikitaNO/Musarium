@@ -4,5 +4,10 @@
     <string name="app_name">Musarium</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="scan_qr_code">Сканируй \n QR код</string>
+    <string name="open_map">Открывай\n карту</string>
+    <string name="profile">Профиль</string>
+        
+    
 
 </resources>
